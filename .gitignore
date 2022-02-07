@@ -3,5 +3,4 @@ venv
 .vscode
 .env
 kikoNotes.txt
-alembic
 mainWithoutOrm.py
