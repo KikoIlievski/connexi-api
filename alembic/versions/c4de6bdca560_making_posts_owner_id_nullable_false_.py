@@ -21,4 +21,4 @@ def upgrade():
 
 
 def downgrade():
-    op.alter_colmn("posts", "owner_id", nullable=True)
+    op.alter_column("posts", "owner_id", nullable=True)
