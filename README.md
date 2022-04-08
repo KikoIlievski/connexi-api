@@ -16,7 +16,7 @@ was yet to be introduced. So from here the next step was to introduce [OAuth2](h
 the joys of database migration tools! I introduced [Alembic](https://alembic.sqlalchemy.org/en/latest/) into the project, and with it, came the ability to change
 the database in exactly the way I wanted, with the benefit of each version being stored. 
 * Here came the scary part of the project for me. Almost every project I had done prior to this project, I had only ever developed locally. 
-The world of hosting on a public domain, had remained foreign to me, so I had a lot to learn! CORS, SSH, development/production branches... 
+The world of hosting on a public domain, had remained foreign to me, so I had a lot to learn! CORS, SSH, reverse proxies, firewalls, development/production branches... 
 The things I learned here, made me feel like I had finally began to mature as a developer. I was finally beginning to see the proper, 
 industry standard of doing some tasks (turns out, it's not "best practice" to hardcode your passwords and credentials directly into your code pushed to GitHub :D)
 * I set up my own Linux server, to serve as an IP from which the world could access my baby. I began to setup [NGINX](https://www.nginx.com/), but an issue arose
