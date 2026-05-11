@@ -1,6 +1,6 @@
 # Connexi API
 
-A social media RESTful API designed using [FastAPI](https://fastapi.tiangolo.com/) and [PostgreSQL](https://www.postgresql.org/). The documentation for the API can be found [here](https://kiko-python-api.herokuapp.com/docs).
+A social media RESTful API designed using [FastAPI](https://fastapi.tiangolo.com/) and [PostgreSQL](https://www.postgresql.org/).
 
 This project gave me the opportunity to explore some of the worderful design patterns and tech stacks that make up backend development. 
 
